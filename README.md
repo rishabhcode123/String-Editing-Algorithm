@@ -1,28 +1,28 @@
 # String-Editing-Algorithm
 
-                     Problem Statement:
+      Problem Statement:
                          
                           
-                    Implement the string editing algorithm using dynamic programming approach and demonstrate 3 test cases.
+   Implement the string editing algorithm using dynamic programming approach and demonstrate 3 test cases.
 
-                    Applications of String Editing -
-                    Spell Checkers, 
-                    Spam Filters, 
-                    Intrusion Detection System, 
-                    Search Engines, 
-                    Plagiarism Detection, 
-                    Bioinformatics,
-                    Digital Forensics 
-                    and Information Retrieval Systems
+        Applications of String Editing -
+        Spell Checkers, 
+        Spam Filters, 
+        Intrusion Detection System, 
+        Search Engines, 
+        Plagiarism Detection, 
+       Bioinformatics,
+       Digital Forensics 
+       Information Retrieval Systems
 
-                   CODE -
+         CODE -
                    
-                   #include <bits/stdc++.h>
-                using namespace std;
+        #include <bits/stdc++.h>
+        using namespace std;
 
-              int main(){
-             string word1= "FIFAWORLDCUP";
-             string word2= "FIFAWORLDPUC";
+        int main(){
+        string word1= "FIFAWORLDCUP";
+        string word2= "FIFAWORLDPUC";
 
 
         int n1 = word1.size(), n2 = word2.size();
